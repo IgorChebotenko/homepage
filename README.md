@@ -15,7 +15,7 @@ This site is about one series character- ([THOMAS SHELBY](https://peaky-blinders
 
 Switch animation intensity
 
-#Music
+# Fone music
 
 ![Image alt](./image/3.png)
 

@@ -12,11 +12,13 @@ This site is about one series character- ([THOMAS SHELBY](https://peaky-blinders
 
 
 ![Image alt](./image/2.png)
+
 Switch animation intensity
 
 #Music
 
 ![Image alt](./image/3.png)
+
 You can turn on / off background music
 
 

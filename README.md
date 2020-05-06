@@ -9,7 +9,13 @@ This site is about one series character- ([THOMAS SHELBY](https://peaky-blinders
 
 
 # Rain control
+
+Switch animation intensity
 ![Image alt](./image/2.png)
+
+#Music
+You can turn on / off background music
+![Image alt](./image/3.png)
 
 
 

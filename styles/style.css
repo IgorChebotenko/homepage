@@ -283,7 +283,7 @@ article {
 	margin:10%;
   position: relative;
   padding: 3em;
-  background-image:url(/image/paper.jpg);
+  background-image:url(image/paper.jpg);
 
 background-size: cover;  
  
@@ -1236,7 +1236,7 @@ body {
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
           flex-direction: column;
-background-image:url(/image/bg.png) ;
+background-image:url(image/bg.png) ;
 background-attachment:fixed;
 background-size: cover;
 
@@ -1302,7 +1302,7 @@ background-size: cover;
 }
 li .extended {
     box-shadow: 0 0 10px rgba(0,0,0,0.5);
-    background-image:url(/image/paper2.jpg) ;
+    background-image:url(image/paper2.jpg) ;
 background-attachment:fixed;
 background-size: cover;
     display: none;
